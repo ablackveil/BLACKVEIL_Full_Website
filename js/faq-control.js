@@ -1,0 +1,1 @@
+Placeholder for js/faq-control.js
