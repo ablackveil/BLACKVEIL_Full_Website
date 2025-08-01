@@ -1,1 +1,0 @@
-Placeholder for js/emoji-selector.js
