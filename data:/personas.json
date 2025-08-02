@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Strategist",
+    "role": "Market analysis and future planning",
+    "status": "active"
+  },
+  {
+    "name": "Developer",
+    "role": "Code implementation and system maintenance",
+    "status": "active"
+  },
+  {
+    "name": "Security Persona",
+    "role": "Access control and system monitoring",
+    "status": "active"
+  }
+]

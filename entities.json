@@ -1,0 +1,22 @@
+[
+  {
+    "name": "FLUXOR",
+    "description": "Immersive digital tourism platform",
+    "status": "active"
+  },
+  {
+    "name": "MYTHEORY",
+    "description": "AI-powered content lab",
+    "status": "active"
+  },
+  {
+    "name": "VEILSHOP",
+    "description": "Autonomous digital storefront",
+    "status": "active"
+  },
+  {
+    "name": "VOXVEIL",
+    "description": "Smart voice content generator",
+    "status": "active"
+  }
+]

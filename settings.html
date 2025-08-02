@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Settings - Blackveil</title>
+  <link rel="stylesheet" href="css/dashboard.css">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <header>
+    <img src="images/logo.png" alt="Blackveil Logo" style="height: 40px;">
+    <h1>Settings</h1>
+  </header>
+  <main>
+    <form id="settings-form">
+      <label for="username">Username:</label><br>
+      <input type="text" id="username" name="username" value="admin"><br><br>
+
+      <label for="password">Password:</label><br>
+      <input type="password" id="password" name="password" value="********"><br><br>
+
+      <label for="language">Language:</label><br>
+      <select id="language" name="language">
+        <option value="en" selected>English</option>
+        <option value="ar">Arabic</option>
+      </select><br><br>
+
+      <button type="submit">Save Settings</button>
+    </form>
+  </main>
+</body>
+</html>

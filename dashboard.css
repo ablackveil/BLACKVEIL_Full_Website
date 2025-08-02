@@ -1,0 +1,81 @@
+/* dashboard.css – Styling for dashboard and internal pages */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0f0f0f;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  background-color: #1c1c1c;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 1px solid #333;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+nav {
+  background-color: #161616;
+  padding: 10px 20px;
+  text-align: center;
+  border-bottom: 1px solid #333;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+nav a {
+  color: #00ccff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 30px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #1b1b1b;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #333;
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #222;
+  color: #00ccff;
+}
+
+.persona-card {
+  background-color: #1d1d1d;
+  border: 1px solid #333;
+  padding: 20px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
